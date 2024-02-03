@@ -1,0 +1,28 @@
+/* Импорт других css-файлов */
+@import 'elements.css';
+@import 'grids.css';
+
+/* Подключение шрифта */
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url("fonts/Inter-Regular.otf");
+}
+
+/* Сброс стилей */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+/* Стилизация header'a */
+.header {
+    width: 100%;
+    height: 6rem;
+    background-color: #FFC513;
+}

@@ -1,0 +1,14 @@
+/* файл для работы с элементами сайта */
+
+.p-r {
+    position: relative;
+}
+
+.p-a {
+    position: absolute;
+}
+
+.icon-car {
+    left: 17.4375rem;
+    top: 0.3125rem;
+}
