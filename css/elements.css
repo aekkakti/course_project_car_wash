@@ -8,7 +8,26 @@
     position: absolute;
 }
 
+.d-f {
+    display: flex;
+}
+
+.j-c-c {
+    justify-content: center;
+    gap: 80px;
+}
+
 .icon-car {
     left: 17.4375rem;
     top: 0.3125rem;
+}
+
+.icon-vk {
+    width: 1.25rem;
+    height: 1.188rem;
+}
+
+.icon-email {
+    width: 1.875rem;
+    height: 1.188rem;
 }

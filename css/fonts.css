@@ -1,0 +1,15 @@
+/* Подключение шрифта */
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url("fonts/Inter-Regular.ttf");
+}
+
+.fs-17px {
+    font-size: 17px;
+    gap: 200px;
+    text-decoration: none;
+}
+
+.fw-700 {
+    font-weight: 700;
+}

@@ -1,12 +1,7 @@
 /* Импорт других css-файлов */
 @import 'elements.css';
 @import 'grids.css';
-
-/* Подключение шрифта */
-@font-face {
-    font-family: 'Inter', sans-serif;
-    src: url("fonts/Inter-Regular.otf");
-}
+@import 'fonts.css';
 
 /* Сброс стилей */
 body {
@@ -25,4 +20,8 @@ body {
     width: 100%;
     height: 6rem;
     background-color: #FFC513;
+}
+
+.c-b {
+    color: #002C6F;
 }
