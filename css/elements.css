@@ -18,16 +18,17 @@
 }
 
 .icon-car {
-    left: 17.4375rem;
-    top: 0.3125rem;
+    margin-left: 17.4375rem;
+    margin-top: 0.3125rem;
 }
 
-.icon-vk {
+.elissa {
+    margin-left: -4.5rem;
+    margin-top: -15rem;
+}
+
+.icon-vk, .icon-email {
     width: 1.25rem;
     height: 1.188rem;
 }
 
-.icon-email {
-    width: 1.875rem;
-    height: 1.188rem;
-}
